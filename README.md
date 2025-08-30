@@ -17,11 +17,16 @@ This tutorial goes over the prerequisites and steps to install the ticketing sof
 - Windows 10</b> (21H2)
 
 <h2>Installation Steps</h2>
-- Create a Windows Virtual Machine 
-- Remote Desktop connect to the VM
-- Install the prereqs for OsTicket
-- Install OsTicket
-- Clean up files and OsTicket
+- Create a Windows Virtual Machine</br>
+- Remote Desktop connect to the VM</br>
+- Install the prereqs for OsTicket</br>
+- Install OsTicket</br>
+- Clean up files and OsTicket</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
